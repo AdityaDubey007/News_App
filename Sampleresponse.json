@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Evergreen Anderson is addicted to cricket, says Broad - Reuters.com",
+      "description": "Evergreen Anderson is addicted to cricket, says Broad  Reuters.com",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy9jcmlja2V0L2V2ZXJncmVlbi1hbmRlcnNvbi1pcy1hZGRpY3RlZC1jcmlja2V0LXNheXMtYnJvYWQtMjAyMy0wNi0xMS_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-06-11T08:05:59Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Morning Bid: Nevermind the cricket, here's inflation - Reuters.com",
+      "description": "Morning Bid: Nevermind the cricket, here's inflation  Reuters.com",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2dsb2JhbC1tYXJrZXRzLXZpZXctZXVyb3BlLTIwMjMtMDYtMjEv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-06-21T04:00:44Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Guardian sport",
+      "title": "‘Embrace it’: Stokes says Test cricket must become more exciting to survive",
+      "description": "<ul><li>England captain urges cricket boards to move with the times</li><li>Players have more ‘money and opportunities’ now, says Stokes</li></ul>The England captain, Ben Stokes, has urged administrators to make Test cricket more attractive and exciting to en…",
+      "url": "https://www.theguardian.com/sport/2023/jun/08/cricket-ben-stokes-test-must-become-more-exciting-survive",
+      "urlToImage": "https://i.guim.co.uk/img/media/bd39e6499da870fde75ae5171511a6649d23cc87/0_14_3818_2292/master/3818.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45d8b53c3488a34073b9a810bc5ab5be",
+      "publishedAt": "2023-06-08T21:22:40Z",
+      "content": "The England captain, Ben Stokes, has urged administrators to make Test cricket more attractive and exciting to ensure that the sports brightest talents arent lured away by more lucrative alternatives… [+7769 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Cricket dismissal row draws in Australian and UK Prime Ministers - Reuters.com",
+      "description": "Cricket dismissal row draws in Australian and UK Prime Ministers  Reuters.com",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy9jcmlja2V0L2NyaWNrZXQtZGlzbWlzc2FsLXJvdy1kcmF3cy1hdXN0cmFsaWFuLXVrLXByaW1lLW1pbmlzdGVycy0yMDIzLTA3LTA0L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-04T08:43:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    }
+  ]
+}
